@@ -1,0 +1,32 @@
+{
+  "instrument_to_cluster": {
+    "voi": 1,
+    "org": 1,
+    "gel": 1,
+    "gac": 1,
+    "tru": 1,
+    "sax": 1,
+    "pia": 1,
+    "vio": 1,
+    "flu": 1,
+    "cel": 1,
+    "cla": 1
+  },
+  "cluster_groups": {
+    "0": [],
+    "1": [
+      "voi",
+      "org",
+      "gel",
+      "gac",
+      "tru",
+      "sax",
+      "pia",
+      "vio",
+      "flu",
+      "cel",
+      "cla"
+    ]
+  },
+  "optimal_k": 2
+}
